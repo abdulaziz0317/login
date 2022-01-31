@@ -1,0 +1,24 @@
+* {
+
+box-sizing: border-box;
+ margin: 0; padding: 0;
+
+}
+
+body {
+
+font-family: arial, Sans-serif;
+ background: #2ecc71;
+color: white;
+ line-height: 1.8;
+}
+a {
+text-decoration: none;
+}
+}
+
+#container {
+     margin: 30px auto;
+      max-width: 450px;
+       padding: 20px;
+       
